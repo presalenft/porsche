@@ -2,8 +2,8 @@ setTimeout(function(){
  
   // Retrieve data
   let sold = document.querySelector('#countA').innerText;
-  var min = 423;
-  var max = 911;
+  var min = 6453;
+  var max = 7500;
  
   // Set Max
   document.getElementById("countB").innerHTML = max
